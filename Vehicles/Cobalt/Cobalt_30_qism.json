@@ -1,0 +1,378 @@
+{
+  "assemblies": [
+    {
+      "assembly": "01 Kapot",
+      "view": "tepa",
+      "reference_region": [
+        23,
+        532,
+        306,
+        847
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "02 Old bamper",
+      "view": "old",
+      "reference_region": [
+        1103,
+        269,
+        1478,
+        363
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "03 Old panjaralar",
+      "view": "old",
+      "reference_region": [
+        1196,
+        225,
+        1386,
+        292
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "04 Old fara · chap",
+      "view": "old",
+      "reference_region": [
+        1113,
+        207,
+        1191,
+        285
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "04 Old fara · o‘ng",
+      "view": "old",
+      "reference_region": [
+        1393,
+        207,
+        1474,
+        285
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "05 Old qanot · chap",
+      "view": "yon",
+      "reference_region": [
+        65,
+        177,
+        333,
+        364
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "05 Old qanot · o‘ng",
+      "view": "o‘ng yon",
+      "reference_region": [
+        65,
+        177,
+        333,
+        364
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "06 Old eshik · chap",
+      "view": "yon",
+      "reference_region": [
+        308,
+        98,
+        572,
+        351
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "06 Old eshik · o‘ng",
+      "view": "o‘ng yon",
+      "reference_region": [
+        308,
+        98,
+        572,
+        351
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "08 Orqa eshik · chap",
+      "view": "yon",
+      "reference_region": [
+        547,
+        104,
+        813,
+        351
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "08 Orqa eshik · o‘ng",
+      "view": "o‘ng yon",
+      "reference_region": [
+        547,
+        104,
+        813,
+        351
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "10 Ostonalar va rezinalar · chap",
+      "view": "yon",
+      "reference_region": [
+        302,
+        294,
+        729,
+        365
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "10 Ostonalar va rezinalar · o‘ng",
+      "view": "o‘ng yon",
+      "reference_region": [
+        302,
+        294,
+        729,
+        365
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "11 Ko‘zgu · chap",
+      "view": "old",
+      "reference_region": [
+        1089,
+        147,
+        1146,
+        197
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "11 Ko‘zgu · o‘ng",
+      "view": "old",
+      "reference_region": [
+        1439,
+        147,
+        1493,
+        197
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "12 Tom va ustunlar",
+      "view": "tepa",
+      "reference_region": [
+        383,
+        546,
+        803,
+        828
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "13 Old oyna",
+      "view": "old",
+      "reference_region": [
+        1134,
+        98,
+        1449,
+        191
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "14 Orqa oyna",
+      "view": "orqa",
+      "reference_region": [
+        1129,
+        532,
+        1445,
+        614
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "15 Bagaj qopqog‘i",
+      "view": "orqa",
+      "reference_region": [
+        1138,
+        608,
+        1437,
+        722
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "16 Orqa bamper",
+      "view": "orqa",
+      "reference_region": [
+        1092,
+        692,
+        1489,
+        811
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "17 Orqa chiroq · chap",
+      "view": "orqa",
+      "reference_region": [
+        1104,
+        618,
+        1172,
+        700
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "17 Orqa chiroq · o‘ng",
+      "view": "orqa",
+      "reference_region": [
+        1405,
+        618,
+        1477,
+        700
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "18 Orqa qanot · chap",
+      "view": "yon",
+      "reference_region": [
+        705,
+        123,
+        993,
+        346
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "18 Orqa qanot · o‘ng",
+      "view": "o‘ng yon",
+      "reference_region": [
+        705,
+        123,
+        993,
+        346
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "22 G‘ildirak · old chap",
+      "view": "yon",
+      "reference_region": [
+        138,
+        257,
+        295,
+        405
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "22 G‘ildirak · old o‘ng",
+      "view": "o‘ng yon",
+      "reference_region": [
+        138,
+        257,
+        295,
+        405
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "22 G‘ildirak · orqa chap",
+      "view": "yon",
+      "reference_region": [
+        733,
+        257,
+        891,
+        405
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "22 G‘ildirak · orqa o‘ng",
+      "view": "o‘ng yon",
+      "reference_region": [
+        733,
+        257,
+        891,
+        405
+      ],
+      "visibility": "visible"
+    },
+    {
+      "assembly": "23 Ostki qism va egzoz",
+      "view": "orqa",
+      "reference_region": [
+        1137,
+        779,
+        1199,
+        820
+      ],
+      "visibility": "Egzoz ko‘rinadi, taglik chizmada yopiq"
+    },
+    {
+      "assembly": "24 Salon",
+      "view": "old",
+      "reference_region": [
+        1158,
+        120,
+        1425,
+        181
+      ],
+      "visibility": "Oyna ortidagi ko‘rinadigan qism"
+    }
+  ],
+  "reference_conflicts": [
+    {
+      "landmark": "Old fara pastki qirrasi",
+      "first_view": "old",
+      "second_view": "yon",
+      "source_rows_px": [
+        281,
+        273
+      ],
+      "source_heights_mm": [
+        564.4,
+        606.8
+      ],
+      "difference_mm": 42.4
+    },
+    {
+      "landmark": "Orqa chiroq pastki qirrasi",
+      "first_view": "orqa",
+      "second_view": "yon",
+      "source_rows_px": [
+        695,
+        245
+      ],
+      "source_heights_mm": [
+        720.8,
+        740.6
+      ],
+      "difference_mm": 19.8
+    },
+    {
+      "landmark": "Ko‘zgu yuqori qirrasi",
+      "first_view": "old",
+      "second_view": "orqa",
+      "source_rows_px": [
+        156,
+        585
+      ],
+      "source_heights_mm": [
+        1167.3,
+        1219.4
+      ],
+      "difference_mm": 52.1
+    }
+  ]
+}

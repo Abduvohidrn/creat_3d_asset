@@ -1,0 +1,458 @@
+[
+  {
+    "view": "Old",
+    "part": "Yuqori panjara",
+    "object": "Upper grille • reveal",
+    "blueprint": [
+      1205,
+      233,
+      1380,
+      245
+    ],
+    "model": [
+      1202.5005403819837,
+      232.83235907317,
+      1378.8620196392662,
+      245.472136994929
+    ],
+    "previous_edge_error_px": 1.07,
+    "edge_error_px": 1.07
+  },
+  {
+    "view": "Old",
+    "part": "Asosiy panjara",
+    "object": "Main grille • reveal",
+    "blueprint": [
+      1206,
+      254,
+      1380,
+      290
+    ],
+    "model": [
+      1202.0642281080547,
+      254.0075664837099,
+      1378.7819172708612,
+      289.42678156247564
+    ],
+    "previous_edge_error_px": 1.43,
+    "edge_error_px": 1.43
+  },
+  {
+    "view": "Old",
+    "part": "Pastki havo kirishi",
+    "object": "Bumper intake • reveal",
+    "blueprint": [
+      1212,
+      315,
+      1372,
+      345
+    ],
+    "model": [
+      1210.66833425823,
+      314.5749869869397,
+      1371.1533885755036,
+      345.0580397254209
+    ],
+    "previous_edge_error_px": 0.67,
+    "edge_error_px": 0.67
+  },
+  {
+    "view": "Old",
+    "part": "Chap fara",
+    "object": "Headlamp gasket • reveal",
+    "blueprint": [
+      1124,
+      211,
+      1188,
+      281
+    ],
+    "model": [
+      1122.9475636733205,
+      211.5214887980211,
+      1187.782534850271,
+      272.2096083504813
+    ],
+    "previous_edge_error_px": 2.65,
+    "edge_error_px": 2.65
+  },
+  {
+    "view": "Old",
+    "part": "Tumanga qarshi fara",
+    "object": "Fog lens",
+    "blueprint": [
+      1133,
+      312,
+      1158,
+      336
+    ],
+    "model": [
+      1133.6579787605688,
+      312.1598444840441,
+      1157.1380051060728,
+      335.73486606306415
+    ],
+    "previous_edge_error_px": 1.52,
+    "edge_error_px": 0.49
+  },
+  {
+    "view": "Old",
+    "part": "Chevrolet belgisi",
+    "object": "Chevrolet bowtie bright surround",
+    "blueprint": [
+      1271,
+      245,
+      1313,
+      262
+    ],
+    "model": [
+      1269.5597671082146,
+      244.66325071721377,
+      1312.9415914133976,
+      261.74143714524587
+    ],
+    "previous_edge_error_px": 2.52,
+    "edge_error_px": 0.52
+  },
+  {
+    "view": "Old",
+    "part": "Old raqam",
+    "object": "License plate",
+    "blueprint": [
+      1238,
+      299,
+      1349,
+      326
+    ],
+    "model": [
+      1236.095368284928,
+      299.3797699811055,
+      1346.904631715072,
+      325.01688810836436
+    ],
+    "previous_edge_error_px": 1.34,
+    "edge_error_px": 1.34
+  },
+  {
+    "view": "Old",
+    "part": "Old oyna",
+    "object": "Windshield",
+    "blueprint": [
+      1157,
+      109,
+      1425,
+      180
+    ],
+    "model": [
+      1159.0059895766408,
+      109.39989897262217,
+      1423.9940104233592,
+      178.6305654025157
+    ],
+    "previous_edge_error_px": 1.12,
+    "edge_error_px": 1.2
+  },
+  {
+    "view": "Orqa",
+    "part": "Chap orqa chiroq",
+    "object": "Tail light • wrapped reflector",
+    "blueprint": [
+      1110,
+      630,
+      1161,
+      695
+    ],
+    "model": [
+      1110.8820899419206,
+      629.521190934799,
+      1163.4107567047868,
+      692.3585991653493
+    ],
+    "previous_edge_error_px": 1.6,
+    "edge_error_px": 1.6
+  },
+  {
+    "view": "Orqa",
+    "part": "Orqa oyna",
+    "object": "Rear window",
+    "blueprint": [
+      1151,
+      540,
+      1424,
+      599
+    ],
+    "model": [
+      1154.862220761412,
+      538.113953992774,
+      1420.137779238588,
+      600.1733951125034
+    ],
+    "previous_edge_error_px": 2.7,
+    "edge_error_px": 2.7
+  },
+  {
+    "view": "Orqa",
+    "part": "Raqam ustidagi xrom",
+    "object": "Rear chrome license molding",
+    "blueprint": [
+      1194,
+      731,
+      1387,
+      740
+    ],
+    "model": [
+      1190.029045930857,
+      730.5502270670032,
+      1383.1043049993707,
+      740.0794596497799
+    ],
+    "previous_edge_error_px": 2.1,
+    "edge_error_px": 2.1
+  },
+  {
+    "view": "Orqa",
+    "part": "Orqa raqam",
+    "object": "License plate.001",
+    "blueprint": [
+      1230,
+      745,
+      1353,
+      776
+    ],
+    "model": [
+      1227.510334057492,
+      745.9778985438553,
+      1347.489665942508,
+      775.0184626405025
+    ],
+    "previous_edge_error_px": 2.49,
+    "edge_error_px": 2.49
+  },
+  {
+    "view": "Orqa",
+    "part": "Bagaj qulfi",
+    "object": "Trunk cylinder",
+    "blueprint": [
+      1287,
+      672,
+      1295,
+      681
+    ],
+    "model": [
+      1286.422987940375,
+      673.3764751535714,
+      1292.454263881407,
+      679.5365987948801
+    ],
+    "previous_edge_error_px": 1.49,
+    "edge_error_px": 1.49
+  },
+  {
+    "view": "Orqa",
+    "part": "Egzoz",
+    "object": "Exhaust outlet",
+    "blueprint": [
+      1162,
+      797,
+      1181,
+      813
+    ],
+    "model": [
+      1164.5050191741855,
+      796.5788822364174,
+      1180.014017439026,
+      812.419195005664
+    ],
+    "previous_edge_error_px": 1.12,
+    "edge_error_px": 1.12
+  },
+  {
+    "view": "Yon",
+    "part": "Old eshik tutqichi",
+    "object": "Painted pull handle L",
+    "blueprint": [
+      498,
+      212,
+      538,
+      228
+    ],
+    "model": [
+      498.28378444154845,
+      212.62752760288325,
+      537.0625815737537,
+      225.6135485893072
+    ],
+    "previous_edge_error_px": 2.04,
+    "edge_error_px": 1.06
+  },
+  {
+    "view": "Yon",
+    "part": "Orqa eshik tutqichi",
+    "object": "Painted pull handle L.001",
+    "blueprint": [
+      732,
+      208,
+      771,
+      222
+    ],
+    "model": [
+      733.2982036857154,
+      208.2439996475397,
+      771.0544449398894,
+      221.2300331093544
+    ],
+    "previous_edge_error_px": 1.57,
+    "edge_error_px": 0.59
+  },
+  {
+    "view": "Yon",
+    "part": "Old eshik oynasi romi",
+    "object": "Window reveal L0",
+    "blueprint": [
+      330,
+      106,
+      550,
+      192
+    ],
+    "model": [
+      329.76652389318986,
+      104.67825823051982,
+      548.1511182405236,
+      188.95423855892446
+    ],
+    "previous_edge_error_px": 2.68,
+    "edge_error_px": 1.61
+  },
+  {
+    "view": "Yon",
+    "part": "Orqa eshik oynasi romi",
+    "object": "Window reveal L1",
+    "blueprint": [
+      563,
+      106,
+      789,
+      183
+    ],
+    "model": [
+      561.3345495582186,
+      105.15217337497444,
+      789.0573060912302,
+      181.26098943311112
+    ],
+    "previous_edge_error_px": 1.12,
+    "edge_error_px": 1.08
+  },
+  {
+    "view": "Yon",
+    "part": "Old shina",
+    "object": "Tire carcass",
+    "blueprint": [
+      143,
+      257,
+      287,
+      400
+    ],
+    "model": [
+      143.70440466570574,
+      263.9021696046341,
+      284.92967914411815,
+      400.0
+    ],
+    "previous_edge_error_px": 2.42,
+    "edge_error_px": 2.42
+  },
+  {
+    "view": "Yon",
+    "part": "Orqa shina",
+    "object": "Tire carcass.002",
+    "blueprint": [
+      741,
+      257,
+      887,
+      400
+    ],
+    "model": [
+      743.2619098647148,
+      263.9021696046341,
+      884.4871843431272,
+      400.0
+    ],
+    "previous_edge_error_px": 2.92,
+    "edge_error_px": 2.92
+  },
+  {
+    "view": "Yon",
+    "part": "Old disk",
+    "object": "Alloy barrel and turned lip",
+    "blueprint": [
+      169,
+      291,
+      260,
+      385
+    ],
+    "model": [
+      168.44310514765624,
+      287.74267878643303,
+      260.19100434579445,
+      376.1595001747442
+    ],
+    "previous_edge_error_px": 4.32,
+    "edge_error_px": 3.21
+  },
+  {
+    "view": "Yon",
+    "part": "Orqa chiroq qirrasi",
+    "object": "Tail lamp gasket",
+    "blueprint": [
+      929,
+      188,
+      977,
+      247
+    ],
+    "model": [
+      930.6589998039558,
+      186.1893426540286,
+      976.1237963863609,
+      247.26623601691668
+    ],
+    "previous_edge_error_px": 1.15,
+    "edge_error_px": 1.15
+  },
+  {
+    "view": "Tepa",
+    "part": "Tom paneli",
+    "object": "Roof panel",
+    "blueprint": [
+      414,
+      572,
+      767,
+      805
+    ],
+    "model": [
+      413.9051834720404,
+      570.3969897344408,
+      766.6813442863026,
+      805.6030102655592
+    ],
+    "previous_edge_error_px": 3.9,
+    "edge_error_px": 0.65
+  },
+  {
+    "view": "Tepa",
+    "part": "Kapot yuvgichi",
+    "object": "Washer jet R",
+    "blueprint": [
+      221,
+      621,
+      229,
+      628
+    ],
+    "model": [
+      222.61882243951692,
+      622.3746703365007,
+      227.47299740287337,
+      627.5939585111327
+    ],
+    "previous_edge_error_px": 1.23,
+    "edge_error_px": 1.23
+  }
+]
